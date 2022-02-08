@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*
+# -*- coding: utf-8 -*-
 {
     'name': 'ModuloTest',
     'summary': """""Academy app yo manage Training""",
@@ -6,7 +6,7 @@
         Descripcion del modulo.
     """,
     'author':'Odoo',
-    'Wbsite': 'https://www.odoo.com',
+    'Website': 'https://www.odoo.com',
     'category': 'Training',
     'version': '0.1',
     'depends': ['base'],
